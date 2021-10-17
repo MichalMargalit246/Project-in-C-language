@@ -26,4 +26,6 @@ Machine teaching structure:
 Each machine instruction encodes several memory words, from one word to a maximum of four words,
 All depending on the addressing methods used. In all types of instructions, the structure of
 The first word is the same. The structure of the first word in the instruction is as follows:
+
+
 ![image](https://user-images.githubusercontent.com/61827476/137619239-ec94a410-6c19-4f3b-bdbb-cedb6ecdec11.png)
